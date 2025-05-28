@@ -1,2 +1,5 @@
 # FinchCountdownOnTail
 THIS CODE CAN BE USED TO DISPLAY A COUNTDOWN ON THE FINCH 2.0's Tail
+
+PLAN:
+*
