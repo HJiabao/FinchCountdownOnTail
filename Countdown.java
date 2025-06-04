@@ -1,6 +1,6 @@
 public void times(int time){
   for(int i=0;i<time;i++){
-    for(int j=0;j<11;j++){
+    for(int j=0;j<5;j++){
       numbers(j);
       bird.pause(1);
     }
