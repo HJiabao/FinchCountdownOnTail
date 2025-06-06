@@ -24,7 +24,7 @@ bird.setDisplay(patternArray);
 <details>
 <summary><strong>Inspiration for the Project</strong></summary>
 
-I wanted to serve people **Oreos** as a prize for participating!
+A fun mingame for friends to play 
 </details>
 
 ---
