@@ -26,5 +26,29 @@ public void numbers(int num){
       display={1,0,1,0,0,1,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0};
       bird.setDisplay(display);
       break;
+    case 5:
+      display={1,1,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,0};
+      bird.setDisplay(display);
+      break;
+    case 6:
+      display={0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1};
+      bird.setDisplay(display);
+      break;
+    case 7:
+      display={1,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0};
+      bird.setDisplay(display);
+      break;
+    case 8:
+      display={1,1,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,1};
+      bird.setDisplay(display);
+      break;
+    case 9:
+      display={1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1};
+      bird.setDisplay(display);
+      break;
+    case 10:
+      display={1,0,0,1,0,1,0,1,0,1,1,0,1,0,1,1,0,1,0,1,1,0,0,1,0};
+      bird.setDisplay(display);
+      break;
   }
 }
