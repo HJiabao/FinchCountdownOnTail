@@ -22,7 +22,7 @@ A fun mingame for friends to play but also adding in a competitive nature to it 
 ### Design Cycle
 <img src="cycle.png" alt="cycle" width="300" height="300">
 
-###### Include commentary on your experience with the design cycle during this project
+###### We created a prototype of the corn hole to see if it turned out well and tested if it could fit perfectly into the finch robot.But it was a little hard to insert of we made it a little bit smalled and also decided to make the corn hole bigger so it would be easier to score point.After the changes, the corn hole fitted perfectly into the finch robot.
 
 ---
 
