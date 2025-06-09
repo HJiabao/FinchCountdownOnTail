@@ -27,7 +27,9 @@ A fun mingame for friends to play but also adding in a competitive nature to it 
 ---
 
 ### Code to Highlight
-###### Include annotated code snippets 
+###### Include annotated code snippets
+
+'''java
 public void numbers(int num){
   int[] display= {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
   switch(num){
@@ -35,6 +37,7 @@ public void numbers(int num){
       display={0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1};
       bird.setDisplay(display);
       break;
+      
 ---
 
 ### Choose At Least Three of the Following to Include:
