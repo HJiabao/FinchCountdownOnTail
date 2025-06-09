@@ -30,7 +30,7 @@ A fun mingame for friends to play
 ---
 
 ### Design Cycle
-<img src="cycle.png" alt="cycle" width="300" height="300">
+![cycle](cycle.png)
 
 ###### Include commentary on your experience with the design cycle during this project
 
