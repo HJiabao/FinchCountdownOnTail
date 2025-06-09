@@ -27,7 +27,6 @@ A fun mingame for friends to play but also adding in a competitive nature to it 
 ---
 
 ### Code to Highlight
-###### Include annotated code snippets
 
 ```java
 public void numbers(int num){
