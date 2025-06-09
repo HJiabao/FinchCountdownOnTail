@@ -29,7 +29,7 @@ A fun mingame for friends to play but also adding in a competitive nature to it 
 ### Code to Highlight
 ###### Include annotated code snippets
 
-'''java
+```java
 public void numbers(int num){
   int[] display= {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
   switch(num){
