@@ -37,7 +37,7 @@ public void numbers(int num){
       display={0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1};
       bird.setDisplay(display);
       break;
-      ```
+```
 ---
 
 ### Choose At Least Three of the Following to Include:
