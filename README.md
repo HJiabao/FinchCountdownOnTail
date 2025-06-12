@@ -41,6 +41,6 @@ public void numbers(int num){
 
 ### Final Thoughts
 - What was your motivation?
-  - 
+- - 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What makes your project stand out?
