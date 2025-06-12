@@ -41,6 +41,8 @@ public void numbers(int num){
 
 ### Final Thoughts
 - What was your motivation?
-  -
+  - Creating a cool and orginal project and challenged myself but adding unnecessary feature of having a countdown to tell the player the time left.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+  - We built this magnificent and spectacular because Shakib thought of it and because many other people are making a sport related project.
 - What makes your project stand out?
+  - It stands out because its 1 of a kind and its multi-purpose.
