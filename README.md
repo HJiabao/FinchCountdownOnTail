@@ -45,4 +45,4 @@ public void numbers(int num){
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
   - We built this magnificent and spectacular because Shakib thought of it and because many other people are making a sport related project.
 - What makes your project stand out?
-  - It stands out because its 1 of a kind and its multi-purpose.
+  - It stands out because its 1 of a kind and its multi-purpose and very versatile.
